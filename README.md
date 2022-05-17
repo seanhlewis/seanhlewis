@@ -6,5 +6,3 @@
 - Promoter of [open-source games]()
 - Personal website: https://seanhlewis.me
 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seanhlewis)]
