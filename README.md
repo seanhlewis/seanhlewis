@@ -9,3 +9,10 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=seanhlewis&show_icons=true&icon_color=&text_color=&bg_color=&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanhlewis&hide_title=false&langs_count=2&hide=html,Smalltalk,Makefile,CMake)
+
+Some of my games include:
+
+<img src="https://user-images.githubusercontent.com/96705270/169964605-d73706f1-e307-4d43-97f4-4f4636798768.png" width="200"/> <img src="https://user-images.githubusercontent.com/96705270/168736641-ebf8efda-fb1c-4769-9813-0ac6c049fef3.png" width="200"/> <img src="https://user-images.githubusercontent.com/96705270/169386509-45dd3bec-40f0-4dec-bb4e-4cc4cf7b9f41.png" width="200"/> <img src="https://user-images.githubusercontent.com/96705270/169195089-c5173ee9-ea01-46ea-bfe0-d44fd3e2d4a6.png" width="200"/>
+
+
+
