@@ -1,7 +1,7 @@
 ### Cheers!
 
 - I'm a current student at UT Austin. Game/software development is my passion.
-- Currently working on [Unreal Engine projects](https://github.com/seanhlewis/)
+- Currently working on [OpenCityAI](https://opencityai.com/)
 - Primary maintainer of [various websites](https://github.com/seanhlewis/websites) - showcasing games, projects, and apps I've built
 - Promoter of [open-source games](https://github.com/seanhlewis/games)
 - Personal website: https://seanhlewis.me
