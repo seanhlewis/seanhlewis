@@ -15,9 +15,9 @@
 Some of my projects include:
 
 <a href="https://github.com/urbaninfolab/OpenCityAI"><img src="https://user-images.githubusercontent.com/96705270/236055102-2f4ce046-dd30-4cbe-87a3-5f25f308d3b5.png" width="400"/></a>
-<a href="https://github.com/Good-Systems/SmartCityData"><img src="https://user-images.githubusercontent.com/96705270/236056893-e2789ed4-0db1-4f85-8c0e-6c00a8380a95.png" width="400"/></a>
+<a href="https://github.com/seanhlewis/DataPoweredAI"><img src="https://user-images.githubusercontent.com/96705270/236706951-687754f2-a501-48cb-9fab-f298e29400b5.png" width="400"/></a>
 
-<a href="https://github.com/seanhlewis/AuditoryAR"><img src="https://user-images.githubusercontent.com/96705270/236706689-3477c967-28f7-45d5-9e5a-37fdec239f5c.png" width="200"/></a>
+<a href="https://github.com/seanhlewis/AuditoryAR"><img src="https://user-images.githubusercontent.com/96705270/236707140-1aa08b93-de28-4647-9e24-3b29793eb9db.png" width="200"/></a> <a href="https://github.com/Good-Systems/SmartCityData"><img src="https://user-images.githubusercontent.com/96705270/236707050-b5af92aa-b91f-4773-91da-34b3281fe308.png" width="200"/></a>
 
 Some of my games include:
 
