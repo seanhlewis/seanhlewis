@@ -17,6 +17,8 @@ Some of my projects include:
 <a href="https://github.com/urbaninfolab/OpenCityAI"><img src="https://user-images.githubusercontent.com/96705270/236055102-2f4ce046-dd30-4cbe-87a3-5f25f308d3b5.png" width="400"/></a>
 <a href="https://github.com/Good-Systems/SmartCityData"><img src="https://user-images.githubusercontent.com/96705270/236056893-e2789ed4-0db1-4f85-8c0e-6c00a8380a95.png" width="400"/></a>
 
+<a href="https://github.com/seanhlewis/AuditoryAR"><img src="https://user-images.githubusercontent.com/96705270/236706689-3477c967-28f7-45d5-9e5a-37fdec239f5c.png" width="200"/></a>
+
 Some of my games include:
 
 <a href="https://github.com/aspengames/Patchwork_Beast"><img src="https://user-images.githubusercontent.com/96705270/236051453-da233c93-6cc6-476d-a997-6047520489e1.png" width="400"/></a><a href="https://github.com/seanhlewis/Fishori"><img src="https://user-images.githubusercontent.com/96705270/236052046-d321d04f-ba21-45b0-819a-cfadae9c8de7.png" width="400"/></a>
