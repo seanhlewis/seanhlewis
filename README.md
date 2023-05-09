@@ -17,7 +17,7 @@ Some of my projects include:
 <a href="https://github.com/urbaninfolab/OpenCityAI"><img src="https://user-images.githubusercontent.com/96705270/236055102-2f4ce046-dd30-4cbe-87a3-5f25f308d3b5.png" width="400"/></a>
 <a href="https://github.com/seanhlewis/DataPoweredAI"><img src="https://user-images.githubusercontent.com/96705270/236706951-687754f2-a501-48cb-9fab-f298e29400b5.png" width="400"/></a>
 
-<a href="https://github.com/seanhlewis/AuditoryAR"><img src="https://user-images.githubusercontent.com/96705270/236707140-1aa08b93-de28-4647-9e24-3b29793eb9db.png" width="200"/></a> <a href="https://github.com/Good-Systems/SmartCityData"><img src="https://user-images.githubusercontent.com/96705270/236707050-b5af92aa-b91f-4773-91da-34b3281fe308.png" width="200"/></a>
+<a href="https://github.com/seanhlewis/AuditoryAR"><img src="https://user-images.githubusercontent.com/96705270/236707140-1aa08b93-de28-4647-9e24-3b29793eb9db.png" width="200"/></a> <a href="https://github.com/Good-Systems/SmartCityData"><img src="https://user-images.githubusercontent.com/96705270/236707050-b5af92aa-b91f-4773-91da-34b3281fe308.png" width="200"/></a> <a href="https://github.com/seanhlewis/TrafficEMS"><img src="https://user-images.githubusercontent.com/96705270/237002275-970186af-4e94-42bb-8040-218d5d61b327.png" width="200"/></a> <a href="https://github.com/seanhlewis/global-pe"><img src="https://user-images.githubusercontent.com/96705270/237002843-d54f7949-6356-46dd-90f1-6424743007f2.png" width="200"/></a>
 
 Some of my games include:
 
