@@ -21,7 +21,7 @@ Some of my projects include:
 
 Some of my games include:
 
-<a href="https://github.com/aspengames/Patchwork_Beast"><img src="https://user-images.githubusercontent.com/96705270/236051453-da233c93-6cc6-476d-a997-6047520489e1.png" width="400"/></a><a href="https://github.com/seanhlewis/Fishori"><img src="https://user-images.githubusercontent.com/96705270/236052046-d321d04f-ba21-45b0-819a-cfadae9c8de7.png" width="400"/></a>
+<a href="https://github.com/aspengames/Patchwork_Beast"><img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/c86e2512-373b-4e44-8918-8c3bc0b74dc6" width="400"/></a><a href="https://github.com/seanhlewis/Fishori"><img src="https://user-images.githubusercontent.com/96705270/236052046-d321d04f-ba21-45b0-819a-cfadae9c8de7.png" width="400"/></a>
 
 <a href="https://github.com/seanhlewis/RPGWurdle"><img src="https://user-images.githubusercontent.com/96705270/171061920-173d9d65-d9f2-49db-b0ea-4b66d0805d2c.png" width="200"/></a> <a href="https://github.com/seanhlewis/pirates-revenge"><img src="https://user-images.githubusercontent.com/96705270/168736641-ebf8efda-fb1c-4769-9813-0ac6c049fef3.png" width="200"/></a> <a href="https://github.com/seanhlewis/shibuya-detective"><img src="https://user-images.githubusercontent.com/96705270/169386509-45dd3bec-40f0-4dec-bb4e-4cc4cf7b9f41.png" width="200"/></a> <a href="https://github.com/seanhlewis/30-seconds"><img src="https://user-images.githubusercontent.com/96705270/169195089-c5173ee9-ea01-46ea-bfe0-d44fd3e2d4a6.png" width="200"/></a>
 
