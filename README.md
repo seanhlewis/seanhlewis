@@ -5,7 +5,7 @@
 - Currently working on [OpenCityAI](https://opencityai.com), [DataPoweredAI](https://datapowered.ai), and [AuditoryAR](https://auditoryar.com)
 - Primary maintainer of [various websites](https://github.com/seanhlewis/websites) - showcasing games, projects, and apps I've built
 - Promoter of [open-source games](https://github.com/seanhlewis/games)
-- Personal website: https://seanhlewis.me
+- Personal website: [redeveloping]
 
 
 ![](https://raw.githubusercontent.com/seanhlewis/github-stats1/master/generated/overview.svg#gh-dark-mode-only)
