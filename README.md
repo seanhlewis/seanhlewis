@@ -1,10 +1,10 @@
 ### Cheers!
 
-- I'm a current student at UT Austin. Game/software development is my passion.
-- Lead Developer and founder of [Aspen Games](https://aspengames.org)
+- I'm a current student at Cornell Tech. AI/software development is my passion.
 - Currently working on [OpenCityAI](https://opencityai.com), [DataPoweredAI](https://datapowered.ai), and [AuditoryAR](https://auditoryar.com)
 - Primary maintainer of [various websites](https://github.com/seanhlewis/websites) - showcasing games, projects, and apps I've built
 - Promoter of [open-source games](https://github.com/seanhlewis/games)
+- Lead Developer and founder of [Aspen Games](https://aspengames.org)
 - Personal website: [redeveloping]
 
 
