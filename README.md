@@ -15,6 +15,7 @@
 ![](https://raw.githubusercontent.com/seanhlewis/github-stats1/master/generated/languages.svg#gh-light-mode-only)
 
 Currently at **SIGGRAPH 2025** in Vancouver presenting:
+
 <a href="https://github.com/seanhlewis/mc3d"><img src="https://mc3d.org/static/images/meta.png" width="800"/></a>
 
 Some of my projects include:
