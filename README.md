@@ -6,6 +6,7 @@
 - Promoter of [open-source games](https://github.com/seanhlewis/games)
 - Lead Developer and founder of [Aspen Games](https://aspengames.org)
 - Personal website: [redeveloping]
+- Connect with me on [Linkedin](https://linkedin.com/in/seanhardestylewis)
 
 
 ![](https://raw.githubusercontent.com/seanhlewis/github-stats1/master/generated/overview.svg#gh-dark-mode-only)
