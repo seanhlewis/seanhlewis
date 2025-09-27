@@ -12,10 +12,6 @@
 ![](https://raw.githubusercontent.com/seanhlewis/github-stats1/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/seanhlewis/github-stats1/master/generated/languages.svg#gh-light-mode-only)
 
-Currently at **SIGGRAPH 2025** in Vancouver presenting:
-
-<a href="https://github.com/seanhlewis/mc3d"><img src="https://mc3d.org/static/images/meta.png" width="800"/></a>
-
 Some of my projects include:
 
 <a href="https://github.com/urbaninfolab/OpenCityAI"><img src="https://user-images.githubusercontent.com/96705270/236055102-2f4ce046-dd30-4cbe-87a3-5f25f308d3b5.png" width="400"/></a>
