@@ -1,12 +1,10 @@
 ### Cheers!
 
 - I'm a current student at Cornell Tech. AI/software development is my passion.
-- Currently working on [OpenCityAI](https://opencityai.com), [SafeMate](https://safemateai.org), and [StreamTwin](https//github.com/seanhlewis/StreamTwin)
+- Currently working on [Searchable City](https://searchable.city/about)
+- Connect with me on [Linkedin](https://linkedin.com/in/seanhardestylewis) or check out my [personal website](https://seanhardestylewis.com)
 - Primary maintainer of [various websites](https://github.com/seanhlewis/websites) - showcasing games, projects, and apps I've built
 - Promoter of [open-source games](https://github.com/seanhlewis/games)
-- Connect with me on [Linkedin](https://linkedin.com/in/seanhardestylewis)
-- Check out my [personal website](https://seanhardestylewis.com)
-
 
 ![](https://raw.githubusercontent.com/seanhlewis/github-stats1/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/seanhlewis/github-stats1/master/generated/overview.svg#gh-light-mode-only)
