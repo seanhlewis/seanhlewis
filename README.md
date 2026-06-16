@@ -1,6 +1,6 @@
 ### Cheers!
 
-- I'm a current student at Cornell Tech. AI/software development is my passion.
+- I'm a current student at Cornell Tech. I work on embodied AI and world models for agents in 3D environments.
 - Currently working on [Searchable City](https://searchable.city/about)
 - Connect with me on [Linkedin](https://linkedin.com/in/seanhardestylewis) or check out my [personal website](https://seanhardestylewis.com)
 - Primary maintainer of [various websites](https://github.com/seanhlewis/websites) - showcasing games, projects, and apps I've built
